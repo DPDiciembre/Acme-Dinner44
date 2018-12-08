@@ -1,5 +1,5 @@
 <h1>Acme-Dinner44</h1>
-<p>This is the project Acme-Dancer for the group of the subject DP formed by</p> 
+<p>This is the project Acme-Dinner44 for the group of the subject DP formed by</p> 
 
 <hr/>
 
